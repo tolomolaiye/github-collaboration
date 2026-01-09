@@ -1,0 +1,2 @@
+My Capstone project involves analysing country population and GDP data using data supplied by World Bank.
+- Tolu Olomolaiye
